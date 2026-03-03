@@ -11,6 +11,7 @@ I am a **Systems and Full-Stack Engineer** focused on building high-performance 
 ### 💼 Professional Highlights
 
 * At **Ouster**, I engineered low-latency real-time video feed optimizations using **C++** and **OpenCV**, and spearheaded 72-hour automated stability tests for distributed sensor services.
+* At **GasTops**, I engineered a high-performance statistical analysis system in Rust to automate hardware tolerance checks, reducing scan times by 98% for aerospace quality standards.
 
 ## 🌐 Connect with me:
 
